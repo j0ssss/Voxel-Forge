@@ -35,6 +35,9 @@ Grab the latest `VoxelForge.exe` from the [Releases](../../releases) page. No Py
 | Transparency | Optional — skips pixels with alpha below threshold |
 | Output | Single `.lua` file saved to your Downloads folder |
 
+<img width="711" height="1003" alt="590048693-864f8d93-83ab-4646-bab1-fbaa73947fe8" src="https://github.com/user-attachments/assets/80eb6f44-11c5-437c-bd75-4cb925b1eba6" />
+<img width="589" height="546" alt="590048745-e6d87a64-0331-480d-afb2-c1e8d791984f" src="https://github.com/user-attachments/assets/5c56d50a-9ae0-41cd-83b8-7739a022ae34" />
+
 ---
 
 ## How To Use The App
